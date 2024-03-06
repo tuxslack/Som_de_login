@@ -1,0 +1,18 @@
+
+# ~/.config/autostart/  ou  /etc/xdg/autostart/
+
+# No Void Linux instala o pacote sound-theme-freedesktop
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Som de login
+Comment=Para ter o login com o som
+Exec=play /usr/share/sounds/freedesktop/stereo/service-login.oga
+OnlyShowIn=XFCE;
+RunHook=0
+StartupNotify=false
+Terminal=false
+Hidden=false
+
