@@ -1,7 +1,10 @@
+#
+# Localização do arquivo: ~/.config/autostart/  ou  /etc/xdg/autostart/
+#
+# No Void Linux instala o pacote sound-theme-freedesktop.
+#
+# xbps-install -Suvy sound-theme-freedesktop
 
-# ~/.config/autostart/  ou  /etc/xdg/autostart/
-
-# No Void Linux instala o pacote sound-theme-freedesktop
 
 [Desktop Entry]
 Encoding=UTF-8
